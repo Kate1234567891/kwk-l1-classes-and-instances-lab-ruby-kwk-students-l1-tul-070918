@@ -2,4 +2,4 @@ class Person
 end
 
 adele_goldberg=Person
-alan_key
+alan_key=
