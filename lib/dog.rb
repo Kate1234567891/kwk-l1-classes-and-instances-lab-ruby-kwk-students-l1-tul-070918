@@ -1,3 +1,5 @@
 class Dog
 
-def 
+def fido.New
+def snoopy.New
+def lassie.New
