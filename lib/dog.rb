@@ -1,6 +1,6 @@
 class Dog
+end
 
-
-def fido.New
-def snoopy.New
-def lassie.New
+fido=Dog.new
+snoopy=Dog.new
+lassie=Dog.new
